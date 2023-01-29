@@ -8,7 +8,7 @@
 <li>TMDB movie database API</li>
 <li>Firebase</li>
 </ul>
-<h2>Project's Demo</h2>
+Demo
 ![My Image](netflix.png)
 
 
