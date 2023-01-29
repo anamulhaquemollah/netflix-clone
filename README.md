@@ -3,8 +3,8 @@
 
 <h2>Built with</h2>
 <ul>
-<li>ReactJs</li>
-<li>TailwindCss</li>
+<li>ReactJS</li>
+<li>TailwindCSS</li>
 <li>TMDB movie database API</li>
 <li>Firebase</li>
 </ul>
